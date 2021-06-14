@@ -1,0 +1,20 @@
+/*
+A Design by Augustine Musine
+Author: AugustineMusine254
+Author URL: http://templatestock.co
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+----------------------------------
+NOTE : FREQUENTLY ASKED QUESTIONS 
+----------------------------------
+
+1. Do I need a separate version for Smartphones and Tablets?
+
+	No, WEB Template is compatible in all web browsers, Smartphones and Tablets. 
+
+2. Do I need any database?
+
+	No, it is not necessary.
+
+
